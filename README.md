@@ -1,0 +1,4 @@
+veneminds
+=========
+
+Crear un programa de entretenimiento que se pueda ejecutar en una interfaz web o en un dispositivo inteligente con las siguientes características:  -- Simule agentes inteligentes que personifiquen personajes políticos, deportistas, artistas u otras personalidades de la vida nacional (venezolana) que resulten reconocibles y entretenidos para un ciudadano venezolano. -- Simular un entorno (mundo) en donde se desenvuelven dichos personajes. que permita la interacción de los personajes. -- Permitir la interacción de dichos agentes con el usuario del programa. El objetivo es entretener, sorprender y despertar en el usuario el deseo de seguir interactuando con el programa con el objeto de descubrir nuevas características (explorar su mundo). -- Realizar una prueba de concepto, basada en distintas tecnologías existentes en el área de la inteligencia artificial para la construcción de estos agentes y su ambiente.
